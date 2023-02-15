@@ -187,7 +187,7 @@ header .logo img {
   visibility: visible;
   opacity: 1;
 }
-.trailer video {
+.trailer iframe {
   max-width: 900px;
   outline: none;
 }
@@ -222,7 +222,7 @@ header .logo img {
     margin-right: 10px;
     max-width: 40px;
   }
-  .trailer video {
+  .trailer iframe {
     max-width: 90%;
   }
 }
